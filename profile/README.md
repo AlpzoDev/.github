@@ -9,7 +9,7 @@ Alpzo, Windows için ücretsiz ve açık kaynaklı yerel geliştirme ortamı yö
 <!-- - [📚 Dokümantasyon](https://github.com/alpzo/docs) -->
 <!-- - [💬 Discord](https://discord.gg/alpzo)
 - [🗺️ Yol Haritası](https://github.com/alpzo/roadmap) -->
-- [⬇️ İndir](https://github.com/alpzo/alpzo/releases)
+- [⬇️ İndir](https://github.com/AlpzoDev/alpzo/releases)
 
 ---
 
@@ -22,7 +22,7 @@ Alpzo is a free and open-source local development environment manager for Window
 <!-- - [📚 Documentation](https://github.com/alpzo/docs) -->
 <!-- - [💬 Discord](https://discord.gg/alpzo)
 - [🗺️ Roadmap](https://github.com/alpzo/roadmap) -->
-- [⬇️ Download](https://github.com/alpzo/alpzo/releases)
+- [⬇️ Download](https://github.com/AlpzoDev/alpzo/releases)
 
 ---
 
