@@ -13,7 +13,7 @@ Alpzo, Windows için ücretsiz ve açık kaynaklı yerel geliştirme ortamı yö
 
 ---
 
-### 🇬🇧 English
+### EN English
 
 Alpzo is a free and open-source local development environment manager for Windows. Easily manage PHP, MySQL, Nginx and NodeJS from a single interface.
 
